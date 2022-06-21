@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @KuwudereTn
 - 👀 I watch anime and play games all day
-- 📫 How to reach me Discord:KuwudereTn#0097 Instagram:_andreuwu_
+- 📫 How to reach me Discord:KuwudereTn#0097
