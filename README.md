@@ -9,7 +9,7 @@
   <img src="https://i.imgur.com/HM030lk.png" 
        width="100" 
        height="100"></a>
-  <a href="youtube.com/channel/KuwudereTn">
+  <a href="https://www.youtube.com/channel/UCL1s7mS6U4FenEKWgz8-e0A/videos">
   <img src="https://i.imgur.com/YWbDUUy.png"  
        width="100" 
        height="100"></a>
