@@ -1,4 +1,4 @@
-# rudj
+# KuwudereTn
 <a href="https://www.youtube.com/watch?v=4IRa6HRAkhs">龴ↀ◡ↀ龴</a>
 <p align="center">
   <a href="https://open.spotify.com/user/3qpteu8ku4xbie6ydz129f8fk?si=88afff92c5a640da">
@@ -22,5 +22,5 @@
        width="100" 
        height="100"></a>
   <br></br>
-  <b><a href="https://myanimelist.net/profile/KuwudereTn">mal</a> |</b>
+  <b><a href="https://myanimelist.net/profile/KuwudereTn">mal</a> </b>
 </p>
