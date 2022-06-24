@@ -18,7 +18,7 @@
        width="100" 
        height="100"></a>
     <a href="https://www.instagram.com/_andreuwu_/">
-  <img src="https://imgur.com/gallery/M6yBwxS"  
+  <img src="https://imgur.com/M6yBwxS"  
        width="100" 
        height="100"></a>
   <a href="https://osu.ppy.sh/users/22794299">
