@@ -26,5 +26,5 @@
        width="100" 
        height="100"></a>
   <br></br>
-  <b><a href="https://myanimelist.net/profile/KuwudereTn">mal</a> | KuwudereTn#0097 </b>
+  <b><a href="https://myanimelist.net/profile/KuwudereTn">MyAnimeList</a> | KuwudereTn#0097 | <a href="https://www.anykey.org/take-the-pledge/">GLHF</a></b>
 </p>
